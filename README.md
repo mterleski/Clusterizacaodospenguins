@@ -1,4 +1,5 @@
 📊 Clusterização de Penguins
+
 Este notebook apresenta uma aplicação prática do algoritmo K-Means para clusterização de pinguins com base em características fisiológicas.
 
 🔍 Objetivo
